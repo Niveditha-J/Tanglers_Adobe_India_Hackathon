@@ -98,9 +98,10 @@ docker run -d -v "%cd%/input:/app/input" -v "%cd%/output:/app/output" --name per
 
 
 
-##Output Format
 
-task-1
+###Output Format
+
+##task-1
 {
   "title": "Document Title",
   "outline": [
@@ -113,7 +114,7 @@ task-1
   ]
 }
 
-task-2
+##task-2
 {
   "name": "John Doe",
   "dob": "01 Jan 2000",
